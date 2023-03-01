@@ -1,7 +1,7 @@
 # Web messenger
 
 Figma link:
-https://www.figma.com/community/file/1212798392169698951
+https://www.figma.com/file/80F5iYv10YfV4TZW0IUPV1/Telegram-UI-Screens?node-id=0%3A3506&t=ClV0zopa6kg5kHcN-1
 
 ### Description:
 

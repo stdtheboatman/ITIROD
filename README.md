@@ -1,7 +1,7 @@
 # Web messenger
 
 Figma link:
-https://www.figma.com/file/OGIdvXo8BEbknHhGzqL96L/Untitled?node-id=0%3A1&t=yGJIS2f742BuEFs4-1
+https://www.figma.com/community/file/1212798392169698951
 
 ### Description:
 
